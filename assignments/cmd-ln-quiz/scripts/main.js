@@ -46,7 +46,6 @@ if(answer == "a"){
 		console.log("Next Question")
 	};
 //Question 5
- 
 answer = prompt("What does '1' + 5 + 5 evaluate to?"+"\nA = 11, B = 25, or C = 155");
 answer .toLowerCase(answer);
 if(answer == "c"){
@@ -57,7 +56,6 @@ if(answer == "c"){
 		console.log("Next Question")
 	};
 //Question 6
-
 answer = prompt("How do you call a .css file in HTLM"+"\nA = <call>, B = <script>, or C = <link>");
 answer .toLowerCase(answer);
 if(answer == "c"){
@@ -68,7 +66,6 @@ if(answer == "c"){
 		console.log("Next Question")
 	};
 	//Question 7
-
 answer = prompt("In DHTML, The D is for dynamic"+"\nA = True or B = False");
 answer .toLowerCase(answer);
 if(answer == "a"){
@@ -79,7 +76,6 @@ if(answer == "a"){
 		console.log("Next Question")
 	};
 	//Question 8
-	 
 answer = prompt("In Javascript, '>=' is a unary operator"+"\nA = True or B = False");
 answer .toLowerCase(answer);
 if(answer == "b"){
@@ -90,7 +86,6 @@ if(answer == "b"){
 		console.log("Next Question")
 	};
 	//Question 9
-	 
 answer = prompt("What is another name for Javascript"+"\nA = Java, B = Coffee talk, or C = ECMAScript");
 answer .toLowerCase(answer);
 if(answer == "c" ){
@@ -102,7 +97,6 @@ if(answer == "c" ){
 	};
 
 	//Question 10
-	 
 answer = prompt("In Javascript, what is NaN"+"\nA = your Grandmother, B = flat bread, or C = Not a Number" );
 answer .toLowerCase(answer);
 if(answer == "c"){
@@ -113,7 +107,6 @@ if(answer == "c"){
 		console.log("Next Question")
 	};
 	//Question 11
-	 
 answer = prompt("What does 3 + 5 + '4' evaluate to?"+"\nA = 23, B = 84, or C = 12");
 answer .toLowerCase(answer);
 if(answer == "b"){
@@ -124,7 +117,6 @@ if(answer == "b"){
 		console.log("Next Question")
 	};
 	//Question 12
-	 
 answer = prompt("What will Math.ceil(9.0115) return?"+"\nA = 10, B = 9, or C = Not a Number" );
 answer .toLowerCase(answer);
 if(answer == "a"){
@@ -135,7 +127,6 @@ if(answer == "a"){
 		console.log("Next Question")
 	};
 		//Question 13
-		 
 answer = prompt("What is the terminal command to create a new directory"+"\nA = abraca-directory, B = crdir, or C = mkdir" );
 answer .toLowerCase(answer);
 if(answer == "c"){
@@ -146,7 +137,6 @@ if(answer == "c"){
 		console.log("Next Question")
 	};
 		//Question 14
-		 
 answer = prompt("The 3 main ways to apply CSS style to a web page are In-line, Embedded/Internal and Linked/External?"+"\nA = Ture, B = False" );
 answer .toLowerCase(answer);
 if(answer == "a"){
@@ -157,7 +147,6 @@ if(answer == "a"){
 		console.log("Last Question")
 	};
 	//Question 15
-		 
 answer = prompt("Is Javascript case sensative"+"\nA = yes, B = NO, or C = maYbE" );
 answer .toLowerCase(answer);
 if(answer == "a"){
